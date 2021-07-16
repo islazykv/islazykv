@@ -19,7 +19,7 @@ Web Development:
 
 <div align="center">
 
-<img width=10% align="center" src="logos\HTML-logo.png" title="HTML"/> &nbsp;&nbsp;   <img width=10% align="center" src="logos\Numpy-logo.png" title="NumPy"/> &nbsp;&nbsp; <img width=10% align="center" src="logos\Pandas-logo.png" title="Pandas"/> &nbsp;&nbsp; <img width=10% align="center" src="logos\Matplotlib-logo.png" title="Matplotlib"/> &nbsp;&nbsp; <img width=10% align="center" src="logos\Seaborn-logo.png" title="Seaborn"/> &nbsp;&nbsp; <img width=10% align="center" src="logos\Plotly-logo.png" title="Plotly"/> &nbsp;&nbsp; <img width=10% align="center" src="logos\Root-Logo.png" title="CERN PyROOT"/> 
+<img width=10% align="center" src="logos\HTML-logo.png" title="HTML"/> &nbsp;&nbsp;   <img width=10% align="center" src="logos\CSS-logo.png" title="CSS"/> &nbsp;&nbsp; <img width=10% align="center" src="logos\JS-logo.png" title="JavaScript"/> &nbsp;&nbsp; <img width=10% align="center" src="logos\Bootstrap-logo.png" title="Bootstrap"/> &nbsp;&nbsp; <img width=10% align="center" src="logos\React-logo.png" title="React"/> &nbsp;&nbsp; <img width=10% align="center" src="logos\Django-logo.png" title="Django"/>/> 
   
 </div>
   
