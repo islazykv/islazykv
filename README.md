@@ -22,7 +22,7 @@ Welcome to my GitHub profile. I enjoy programming and working with data.
 
 <b> Web Development </b>
   
-[<img width=4% align="center" src="logos\HTML-logo.png" title="HTML"/>](https://developer.mozilla.org/en-US/docs/Web/HTML) &nbsp;&nbsp;   [<img width=4% align="center" src="logos\CSS-logo.png" title="CSS"/>](https://developer.mozilla.org/en-US/docs/Web/CSS) &nbsp;&nbsp; [<img width=4% align="center" src="logos\JS-logo.png" title="JavaScript"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;&nbsp; <img width=4% align="center" src="logos\Bootstrap-logo.png" title="Bootstrap"/> &nbsp;&nbsp; [<img width=10% align="center" src="logos\React-logo.png" title="React"/>](https://reactjs.org/) &nbsp;&nbsp; [<img width=10% align="center" src="logos\Django-logo.png" title="Django"/>](https://www.djangoproject.com/)
+[<img width=4% align="center" src="logos\HTML-logo.png" title="HTML"/>](https://developer.mozilla.org/en-US/docs/Web/HTML) &nbsp;&nbsp;   [<img width=4% align="center" src="logos\CSS-logo.png" title="CSS"/>](https://developer.mozilla.org/en-US/docs/Web/CSS) &nbsp;&nbsp; [<img width=4% align="center" src="logos\JS-logo.png" title="JavaScript"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;&nbsp; [<img width=4% align="center" src="logos\Bootstrap-logo.png" title="Bootstrap"/>](https://getbootstrap.com/) &nbsp;&nbsp; [<img width=10% align="center" src="logos\React-logo.png" title="React"/>](https://reactjs.org/) &nbsp;&nbsp; [<img width=10% align="center" src="logos\Django-logo.png" title="Django"/>](https://www.djangoproject.com/)
   
 </div>
   
