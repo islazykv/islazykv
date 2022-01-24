@@ -1,6 +1,6 @@
-# Hello👋 I'm Igor Ślazyk👋
+# Hello👋 I'm Igor 👋
 
-Welcome to my GitHub profile. I enjoy programming and working with data.
+Welcome to my GitHub profile.
 
 #### Technologies that I'm using and learning:
 
