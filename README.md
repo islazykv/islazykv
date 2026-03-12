@@ -1,58 +1,85 @@
-# Hello👋 I'm Igor 👋
+# Hi, I'm Igor 👋
 
-Welcome to my GitHub profile.
+I'm an ML-engineer with a background in experimental particle physics. I build end-to-end machine learning pipelines and enjoy turning complex datasets into meaningful results.
 
+---
 
-<div align = "justify">
-Thanks for stopping by! My GitHub hasn't been updated in a while—sorry about that. I hope to add some interesting projects soon. You can still find some of my older repositories here:
+## Featured Projects
 
-- ### Repositories:
-  - [Data Science](https://github.com/islazykv/data-science)
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/islazykv/tau-supersymmetry">tau-supersymmetry</a></h3>
+      <p>End-to-end ML pipeline for searching supersymmetric particles in tau lepton final states using ATLAS Run 2/3 data. Includes BDT & DNN classifiers, Hydra config management, DVC data versioning, and MLflow experiment tracking.</p>
+    </td>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/islazykv/elementary-cells">elementary-cells</a></h3>
+      <p>Quality assurance analysis for Elementary Cells in the LHCb RICH detector upgrade at CERN. Covers Signal Induced Noise, DAC Scan, Dark Count Rate, and Threshold Scan characterization of MaPMT-based photon detectors.</p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/islazykv/reports-generator">reports-generator</a></h3>
+      <p>Django web app for CSV transaction data analysis — date-range filtering, interactive charts (bar, pie, line), and PDF report export with user authentication.</p>
+    </td>
+    <td valign="top" width="50%">
+      <h3><a href="https://github.com/islazykv/practice-archive">practice-archive</a></h3>
+      <p>Collection of hands-on DS/ML notebooks covering EDA, neural network regression, binary classification, and interactive geospatial visualizations.</p>
+    </td>
+  </tr>
+</table>
 
+---
 
-I am working with the following technologies:
+## Tech Stack
 
+**Languages**
 
-<hr>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-<div align="center">
-  
-<b> Data Science </b>
-  
-[<img width=10% align="center" src="logos\Python-logo.png" title="Python"/>](https://www.python.org/) &nbsp;&nbsp; [<img width=10% align="center" src="logos\Numpy-logo.png" title="NumPy"/>](https://numpy.org/) &nbsp;&nbsp; [<img width=10% align="center" src="logos\Pandas-logo.png" title="Pandas"/>](https://pandas.pydata.org/) &nbsp;&nbsp; [<img width=10% align="center" src="logos\Matplotlib-logo.png" title="Matplotlib"/>](https://matplotlib.org/) &nbsp;&nbsp; [<img width=10% align="center" src="logos\Seaborn-logo.png" title="Seaborn"/>](https://seaborn.pydata.org/) &nbsp;&nbsp; [<img width=10% align="center" src="logos\Plotly-logo.png" title="Plotly"/>](https://plotly.com/) &nbsp;&nbsp; [<img width=10% align="center" src="logos\Root-Logo.png" title="CERN PyROOT"/>](https://root.cern/)
+**Data Processing & Visualization**
 
-[<img width=7% align="center" src="logos\SciKit-Learn-logo.png" title="SciKit-Learn"/>](https://scikit-learn.org/stable/) &nbsp;&nbsp; [<img width=10% align="center" src="logos\TensorFlow-logo.png" title="TensorFlow"/>](https://www.tensorflow.org/) &nbsp;&nbsp; [<img width=10% align="center" src="logos\Keras-logo.png" title="Keras"/>](https://keras.io/) &nbsp;&nbsp; [<img width=10% align="center" src="logos\PyTorch-logo.png" title="PyTorch"/>](https://pytorch.org/)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![ROOT](https://img.shields.io/badge/ROOT_/_uproot-CERN-grey?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-<hr>
-  
-</div>
-  
-<div align="center">
+**Machine Learning & Deep Learning**
 
-<b> Web Development </b>
-  
-[<img width=4% align="center" src="logos\HTML-logo.png" title="HTML"/>](https://developer.mozilla.org/en-US/docs/Web/HTML) &nbsp;&nbsp;   [<img width=4% align="center" src="logos\CSS-logo.png" title="CSS"/>](https://developer.mozilla.org/en-US/docs/Web/CSS) &nbsp;&nbsp; [<img width=4% align="center" src="logos\JS-logo.png" title="JavaScript"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &nbsp;&nbsp; [<img width=4% align="center" src="logos\Bootstrap-logo.png" title="Bootstrap"/>](https://getbootstrap.com/) &nbsp;&nbsp; [<img width=10% align="center" src="logos\React-logo.png" title="React"/>](https://reactjs.org/) 
-  
-</div>
-  
-<hr>  
-  
-#### Contact:
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FBD?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-FF0000?style=flat-square)
+![Optuna](https://img.shields.io/badge/Optuna-7B68EE?style=flat-square)
+![pyhf](https://img.shields.io/badge/pyhf-555555?style=flat-square)
 
-Feel free to contact me: <a href="mailto:islazykv@gmail.com">Gmail</a>, [LinkedIn](https://www.linkedin.com/in/igor-slazyk/).
+**MLOps**
 
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-89B4FA?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Azure ML](https://img.shields.io/badge/Azure_ML-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 
-<!--
-**islazykv/islazykv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web Development**
 
-Here are some ideas to get you started:
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📧 [islazykv@gmail.com](mailto:islazykv@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/igor-slazyk/)
