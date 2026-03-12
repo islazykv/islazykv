@@ -4,30 +4,14 @@ I'm an ML-engineer with a background in experimental particle physics. I build e
 
 ---
 
-## Featured Projects
+## Projects
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3><a href="https://github.com/islazykv/tau-supersymmetry">tau-supersymmetry</a></h3>
-      <p>End-to-end ML pipeline for searching supersymmetric particles in tau lepton final states using ATLAS Run 2/3 data. Includes BDT & DNN classifiers, Hydra config management, DVC data versioning, and MLflow experiment tracking.</p>
-    </td>
-    <td valign="top" width="50%">
-      <h3><a href="https://github.com/islazykv/elementary-cells">elementary-cells</a></h3>
-      <p>Quality assurance analysis for Elementary Cells in the LHCb RICH detector upgrade at CERN. Covers Signal Induced Noise, DAC Scan, Dark Count Rate, and Threshold Scan characterization of MaPMT-based photon detectors.</p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h3><a href="https://github.com/islazykv/reports-generator">reports-generator</a></h3>
-      <p>Django web app for CSV transaction data analysis — date-range filtering, interactive charts (bar, pie, line), and PDF report export with user authentication.</p>
-    </td>
-    <td valign="top" width="50%">
-      <h3><a href="https://github.com/islazykv/practice-archive">practice-archive</a></h3>
-      <p>Collection of hands-on DS/ML notebooks covering EDA, neural network regression, binary classification, and interactive geospatial visualizations.</p>
-    </td>
-  </tr>
-</table>
+Professional and personal side projects:
+
+- [tau-supersymmetry](https://github.com/islazykv/tau-supersymmetry)
+- [elementary-cells](https://github.com/islazykv/elementary-cells)
+- [reports-generator](https://github.com/islazykv/reports-generator)
+- [practice-archive](https://github.com/islazykv/practice-archive)
 
 ---
 
